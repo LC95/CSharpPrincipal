@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11cfe479-a842-4a12-a9c7-f76d61df9dea" name="Default Changelist" comment="1. 忽略文件" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpPrinciple/ProductService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+              <folding>
+                <marker date="1553477265996" expanded="true" signature="25:208" ph="{...}" />
+                <marker date="1553477265996" expanded="true" signature="59:168" ph="{...}" />
+                <marker date="1553477265996" expanded="true" signature="108:162" ph="{...}" />
+                <marker date="1553477265996" expanded="true" signature="194:206" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PrincipalUseCase/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+              <folding>
+                <marker date="1553477555554" expanded="false" signature="6:36" ph="..." />
+                <marker date="1553477555554" expanded="true" signature="64:1201" ph="{...}" />
+                <marker date="1553477555554" expanded="true" signature="71:129" ph="/// 原则1 : 使用隐式类型的局部变量 ... " />
+                <marker date="1553477555554" expanded="true" signature="155:275" ph="{...}" />
+                <marker date="1553477555554" expanded="true" signature="194:269" ph="{...}" />
+                <marker date="1553477555554" expanded="true" signature="281:346" ph="///  ... " />
+                <marker date="1553477555554" expanded="true" signature="372:669" ph="{...}" />
+                <marker date="1553477555554" expanded="true" signature="387:464" ph="/* C##含有两种常量, 编译时常量和运行时常量, 你应当选用运行时常量而不是编译时常量 ... */" />
+                <marker date="1553477555554" expanded="true" signature="525:663" ph="/* const可以定义在方法当中, 但是readonly不可以 ... */" />
+                <marker date="1553477555554" expanded="true" signature="675:741" ph="///  ... " />
+                <marker date="1553477555554" expanded="true" signature="767:1199" ph="{...}" />
+                <marker date="1553477555554" expanded="true" signature="799:1063" ph="{...}" />
+                <marker date="1553477555554" expanded="true" signature="934:985" ph="{...}" />
+                <marker date="1553477555554" expanded="true" signature="1002:1053" ph="{...}" />
+                <marker date="1553477555554" expanded="true" signature="1094:1193" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PrincipalUseCase/PrincipalUseCase.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PrincipalUseCase/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpPrinciple/ProductService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CSharpPrinciple/ProductService.cs" />
+        <option value="$PROJECT_DIR$/PrincipalUseCase/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-300" />
+    <option name="y" value="327" />
+    <option name="width" value="1400" />
+    <option name="height" value="606" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSharpPrinciple" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSharpPrinciple" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PrincipalUseCase" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSharpPrinciple" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PrincipalUseCase" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11cfe479-a842-4a12-a9c7-f76d61df9dea" name="Default Changelist" comment="" />
+      <created>1553475642886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553475642886</updated>
+      <workItem from="1553475645541" duration="640000" />
+      <workItem from="1553476381718" duration="1172000" />
+    </task>
+    <task id="LOCAL-00001" summary="1. 忽略文件">
+      <created>1553476056239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553476056240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1812000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-300" y="327" width="1400" height="606" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24850747" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.5466102" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1. 忽略文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. 忽略文件" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PrincipalUseCase/PrincipalUseCase.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpPrinciple/ProductService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding>
+            <marker date="1553477265996" expanded="true" signature="25:208" ph="{...}" />
+            <marker date="1553477265996" expanded="true" signature="59:168" ph="{...}" />
+            <marker date="1553477265996" expanded="true" signature="108:162" ph="{...}" />
+            <marker date="1553477265996" expanded="true" signature="194:206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrincipalUseCase/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <marker date="1553477555554" expanded="false" signature="6:36" ph="..." />
+            <marker date="1553477555554" expanded="true" signature="64:1201" ph="{...}" />
+            <marker date="1553477555554" expanded="true" signature="71:129" ph="/// 原则1 : 使用隐式类型的局部变量 ... " />
+            <marker date="1553477555554" expanded="true" signature="155:275" ph="{...}" />
+            <marker date="1553477555554" expanded="true" signature="194:269" ph="{...}" />
+            <marker date="1553477555554" expanded="true" signature="281:346" ph="///  ... " />
+            <marker date="1553477555554" expanded="true" signature="372:669" ph="{...}" />
+            <marker date="1553477555554" expanded="true" signature="387:464" ph="/* C##含有两种常量, 编译时常量和运行时常量, 你应当选用运行时常量而不是编译时常量 ... */" />
+            <marker date="1553477555554" expanded="true" signature="525:663" ph="/* const可以定义在方法当中, 但是readonly不可以 ... */" />
+            <marker date="1553477555554" expanded="true" signature="675:741" ph="///  ... " />
+            <marker date="1553477555554" expanded="true" signature="767:1199" ph="{...}" />
+            <marker date="1553477555554" expanded="true" signature="799:1063" ph="{...}" />
+            <marker date="1553477555554" expanded="true" signature="934:985" ph="{...}" />
+            <marker date="1553477555554" expanded="true" signature="1002:1053" ph="{...}" />
+            <marker date="1553477555554" expanded="true" signature="1094:1193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
